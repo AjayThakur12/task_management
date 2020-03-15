@@ -1,16 +1,31 @@
-# task_management
+# 📝 Task Management  
 
-A new Flutter project.
+A Task Management app which uses moor packages for Data Persistence.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 💻 Install
+**Note**: Make sure your [Flutter](https://flutter.dev) environment is setup.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+In the command terminal, run the following commands:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    $ git clone https://github.com/BigMarco254/FlutterTodo.git flutter_todo
+    $ cd flutter_todo/
+    $ flutter packages get
+    $ flutter run
+
+
+
+## 📷 Screenshots
+
+![](https://user-images.githubusercontent.com/29337604/76698564-85a79200-66ca-11ea-81ab-eb0ad83f2b7c.png)
+
+![](https://user-images.githubusercontent.com/29337604/76698565-893b1900-66ca-11ea-9435-83c7bbf94f07.png)
+
+## Moor Table
+
+| Id       | Name | Description | Priority|
+|----------|------|-------------|---------|
+|1|Meeting|Business Plan|High|
+|2|Mathematics Exam|Need to revise calculus|Medium|
+|3|Lunch|invitation for Dev Lunch |Low|
