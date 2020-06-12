@@ -9,8 +9,8 @@ A Task Management app which uses moor packages for Data Persistence.
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/BigMarco254/FlutterTodo.git flutter_todo
-    $ cd flutter_todo/
+    $ git clone https://github.com/AjayThakur12/task_management.git task_management
+    $ cd task_management/
     $ flutter packages get
     $ flutter run
 
